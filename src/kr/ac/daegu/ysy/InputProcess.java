@@ -15,7 +15,7 @@ public class InputProcess {
 
 
 
-    
+
     // 콘솔로부터 사용자의 입력을 받는 InputProcess에서만 쓸 수 있는 기능. (private)
     private String inputFromUser(Scanner sc) {
         return sc.next(); // 사용자의 입력을 받은 데이터를 String으로 반환한다.
